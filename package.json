@@ -1,5 +1,6 @@
 {
     "name": "mme-ur-extension-pack",
+    "publisher": "MedieninformatikRegensburg",
     "displayName": "MME Extension Pack",
     "description": "A collection of useful VS Code extension for the Multimedia Engineering class (University of Regensburg)",
     "version": "0.0.1",
